@@ -1,4 +1,5 @@
-
+require 'bundler'
+Bundler.setup
 require 'toto'
 
 # Rack config

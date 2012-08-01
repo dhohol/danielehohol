@@ -6,7 +6,7 @@ task :default => :new
 
 desc "Create a new article."
 task :new do
-  title = ask('Title: ')
+  title = ""
   slug = title.empty?? nil : title.strip.slugize
 
   article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y")}.to_yaml

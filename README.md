@@ -1,1 +1,1 @@
-[![Build Status](https://secure.travis-ci.org/dhohol/danielehohol)](https://secure.travis-ci.org/dhohol/danielehohol)
+[![Build Status](https://secure.travis-ci.org/dhohol/danielehohol)](https://secure.travis-ci.org/dhohol/danielehohol.rb)

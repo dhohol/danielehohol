@@ -1,5 +1,6 @@
-title: The Benefits of Wireframe Documentation
+title: "The Benefits of Wireframe Documentation"
 date: 04/08/2012
+slug: Wireframe
 
 One great thing about working with the Apps Factory this term has been the chance to develop wireframe documentation for our clients who've come to us with product ideas with which they need help in either developing or commercializing. We've used wireframe documents to help in the process of making their dreams in a reality and I feel this is down to several benefits which wireframing offers:
 

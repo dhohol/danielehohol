@@ -1,5 +1,6 @@
-title: Why the move?
+title: "Transition to Heroku underway!"
 date: 04/08/2012
+slug: transition
 
 For those who often troll my blogger, you will notice a big difference in the layout and overall feel of danielehohol.com. For the last little while, I have been working on a ruby-powered blog (using the light-weight toto framework) while also getting the chance to work with some great set of technologies. This blog is a work in progress, but I'm hoping to work on some cool frameworks to make it better/appealing. 
 

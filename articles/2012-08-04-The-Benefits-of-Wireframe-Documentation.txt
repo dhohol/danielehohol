@@ -1,0 +1,20 @@
+title: The Benefits of Wireframe Documentation
+date: 04/08/2012
+
+One great thing about working with the Apps Factory this term has been the chance to develop wireframe documentation for our clients who've come to us with product ideas with which they need help in either developing or commercializing. We've used wireframe documents to help in the process of making their dreams in a reality and I feel this is down to several benefits which wireframing offers:
+
+* Makes changes to the products more straight-forward
+* Helps our clients conceptualize and improve their own products
+* Helps our team (the web/mobile devs) make the product
+* Helps to understand the user flow, and thus, makes use case design so much easier
+
+Here are several wireframe best-practices that have helped me design well-recieved documents: 
+
+* Understand that each decision you put on paper will eventually be expressed through HTML(or some other scripting langauge) as a final product so it's key to understand the behavior of the programming language. If you know HTML will be used to generate the page, aim for a maximum of 940 px to avoid using a fluid layout.
+* All child controls of a parent control should lie completely within the parent control
+* Avoid Overlaps!
+* Seperate ungrouped controls from grouped controls
+* Keep it simple = if there are controls that are unneeded, don't put it on
+
+These are basic principles that have helped me along the way. I'm currently exploring texts on good product/UI design so if you know any, please let me know!
+

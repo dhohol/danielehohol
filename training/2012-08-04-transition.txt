@@ -1,0 +1,13 @@
+title: "Transition to Heroku underway!"
+date: 04/08/2012
+slug: transition
+
+For those who often troll my blogger, you will notice a big difference in the layout and overall feel of danielehohol.com. For the last little while, I have been working on a ruby-powered blog (using the light-weight toto framework) while also getting the chance to work with some great set of technologies. This blog is a work in progress, but I'm hoping to work on some cool frameworks to make it better/appealing. 
+
+One of the key differences is in the back-end: I am using Heroku to host my ruby code which I push from Github (my online source code repository). One challenge I want to figure out is how to push it automagically to Heroku without having to push it twice. So far, my approach is to figure out how to configure Travis (an open-sourced web-based continuous integration server) to automatically push it for me whenever I push code to my github account (via a post-push hook). I'll provide more updates on my Issues tab for the danielehohol repo.
+
+So why Toto? Toto is very light-weight and allows the type of customization which Blogger/WordPress does not allow! Toto stores all your posts as text files. As hinted above, the engine is written in the Ruby language and so you can use Ruby throughout the template files to add said extra functionality. Another bonus? Works extremely well with Heroku, a Ruby cloud host, which makes deployment especially easy. 
+
+One thing I've realized, however, is that toto (and the dorothy template that is the default one) has not been updated in quite a while so it hasn't caught up to the requirements of Heroku. If you do try out Toto, you'll need add a Gemfile to your root directory and make sure to add gems such as builder, rediscount, toto, and rake.
+
+For more information, and a great guide to start, I'd recommend reading http://fadeyev.net/2010/05/10/getting-started-with-toto/ which provides a really quick primer to get started!
